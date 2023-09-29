@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="895408ef-8308-4c4a-a9fb-4318fa0428f9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/collectionframeworkdemo/CollectionTest.java" afterDir="false" />
+    <list default="true" id="895408ef-8308-4c4a-a9fb-4318fa0428f9" name="Changes" comment="Hello World Project">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/collectionframeworkdemo/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/collectionframeworkdemo/CollectionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/collectionframeworkdemo/CollectionTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,10 +27,10 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="workspaceImportEnabled" value="true" />
-      </MavenImportingSettings>
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
     </option>
   </component>
   <component name="ProjectId" id="2W4J63YV46dM9CZwmpIZpKOloCm" />
@@ -88,6 +89,25 @@
       <option name="presentableId" value="Default" />
       <updated>1695985744458</updated>
     </task>
+    <task id="LOCAL-00001" summary="Hello World Project">
+      <created>1695987552992</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1695987552992</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Hello World Project">
+      <created>1695987606110</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1695987606110</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Hello World Project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hello World Project" />
   </component>
 </project>
