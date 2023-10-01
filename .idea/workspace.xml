@@ -4,14 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="895408ef-8308-4c4a-a9fb-4318fa0428f9" name="Changes" comment="LinkedList demo commited">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/collectionframeworkdemo/CursorsDemo/EnumerationCursorDemo.java" afterDir="false" />
+    <list default="true" id="895408ef-8308-4c4a-a9fb-4318fa0428f9" name="Changes" comment="Enumeration Cursor Demo">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/collectionframeworkdemo/ListDemo/ListDemoUsingIterator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/collectionframeworkdemo/ArrayListDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/collectionframeworkdemo/ListDemo/ArrayListDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/collectionframeworkdemo/ArrayListSizeDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/collectionframeworkdemo/ListDemo/ArrayListSizeDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/collectionframeworkdemo/CollectionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/collectionframeworkdemo/ListDemo/CollectionTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/collectionframeworkdemo/LinkedListDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/collectionframeworkdemo/ListDemo/LinkedListDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/collectionframeworkdemo/CursorsDemo/EnumerationCursorDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/collectionframeworkdemo/CursorsDemo/EnumerationCursorDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +50,7 @@
     "last_opened_file_path": "C:/Users/Rahul/Desktop/CollectionsFramework/CollectionFrameworkInJava"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.EnumerationCursorDemo">
+  <component name="RunManager" selected="Application.ListDemoUsingIterator">
     <configuration name="ArrayListDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.collectionframeworkdemo.ListDemo.ArrayListDemo" />
       <module name="CollectionFrameworkInJava" />
@@ -70,19 +66,6 @@
     </configuration>
     <configuration name="ArrayListSizeDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.collectionframeworkdemo.ListDemo.ArrayListSizeDemo" />
-      <module name="CollectionFrameworkInJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.collectionframeworkdemo.ListDemo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CollectionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.collectionframeworkdemo.ListDemo.CollectionTest" />
       <module name="CollectionFrameworkInJava" />
       <extension name="coverage">
         <pattern>
@@ -120,13 +103,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ListDemoUsingIterator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.collectionframeworkdemo.ListDemo.ListDemoUsingIterator" />
+      <module name="CollectionFrameworkInJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.collectionframeworkdemo.ListDemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ListDemoUsingIterator" />
         <item itemvalue="Application.EnumerationCursorDemo" />
         <item itemvalue="Application.LinkedListDemo" />
         <item itemvalue="Application.ArrayListSizeDemo" />
         <item itemvalue="Application.ArrayListDemo" />
-        <item itemvalue="Application.CollectionTest" />
       </list>
     </recent_temporary>
   </component>
@@ -181,7 +177,14 @@
       <option name="project" value="LOCAL" />
       <updated>1696000686611</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Enumeration Cursor Demo">
+      <created>1696001507714</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1696001507714</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -190,6 +193,7 @@
     <MESSAGE value="Arraylist methods and operations" />
     <MESSAGE value="empty list size is 10 after adding 11th element size will be 16" />
     <MESSAGE value="LinkedList demo commited" />
-    <option name="LAST_COMMIT_MESSAGE" value="LinkedList demo commited" />
+    <MESSAGE value="Enumeration Cursor Demo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Enumeration Cursor Demo" />
   </component>
 </project>
