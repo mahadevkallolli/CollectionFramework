@@ -19,6 +19,7 @@ public class Employee {
         System.out.println("Age of the Employee:"+age);
 
        address().display();
+
     }
     public static Address address(){
         return new Address(411057,"Shinde_Vasti","YumNoTum","pune");
