@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="895408ef-8308-4c4a-a9fb-4318fa0428f9" name="Changes" comment="methods with args">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/collectionframeworkdemo/MethodsOrFuctions/MethodWithMultiParams.java" afterDir="false" />
+    <list default="true" id="895408ef-8308-4c4a-a9fb-4318fa0428f9" name="Changes" comment="methods with multi args">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/collectionframeworkdemo/ClassNameAsMethodArgs/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/collectionframeworkdemo/ClassNameAsMethodArgs/Employee.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,16 +52,17 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="org.collectionframeworkdemo.ClassNameAsMethodArgs" />
       <recent name="org.collectionframeworkdemo.GeneralDemo" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MethodWithMultiParams">
-    <configuration name="MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.collectionframeworkdemo.GeneralDemo.MainClass" />
+  <component name="RunManager" selected="Application.Employee">
+    <configuration name="Employee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.collectionframeworkdemo.ClassNameAsMethodArgs.Employee" />
       <module name="CollectionFrameworkInJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.collectionframeworkdemo.StudentDemo.*" />
+          <option name="PATTERN" value="org.collectionframeworkdemo.ClassNameAsMethodArgs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,12 +70,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MethodOrFunctionDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.collectionframeworkdemo.MethodsOrFuctions.MethodOrFunctionDemo" />
+    <configuration name="MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.collectionframeworkdemo.GeneralDemo.MainClass" />
       <module name="CollectionFrameworkInJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.collectionframeworkdemo.MethodsOrFuctions.*" />
+          <option name="PATTERN" value="org.collectionframeworkdemo.StudentDemo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Employee" />
         <item itemvalue="Application.MethodWithMultiParams" />
         <item itemvalue="Application.MthodsWithArgs" />
         <item itemvalue="Application.StudentMain" />
         <item itemvalue="Application.MainClass" />
-        <item itemvalue="Application.MethodOrFunctionDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -209,7 +211,14 @@
       <option name="project" value="LOCAL" />
       <updated>1696321079018</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="methods with multi args">
+      <created>1696321737596</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1696321737596</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -222,6 +231,7 @@
     <MESSAGE value="List using iterator" />
     <MESSAGE value="commited employee and student demo project" />
     <MESSAGE value="methods with args" />
-    <option name="LAST_COMMIT_MESSAGE" value="methods with args" />
+    <MESSAGE value="methods with multi args" />
+    <option name="LAST_COMMIT_MESSAGE" value="methods with multi args" />
   </component>
 </project>
