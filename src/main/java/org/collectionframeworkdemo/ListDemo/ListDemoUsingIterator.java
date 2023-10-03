@@ -20,5 +20,9 @@ public class ListDemoUsingIterator {
         while(itr.hasNext()){
             System.out.println("\n By Iterating Concept:"+itr.next());
         }
+
+        for(String str : list){
+            System.out.println("Using for:each Loop-> "+str);
+        }
     }
 }
