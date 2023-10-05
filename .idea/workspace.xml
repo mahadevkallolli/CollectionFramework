@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="895408ef-8308-4c4a-a9fb-4318fa0428f9" name="Changes" comment="Employee Demo">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/collectionframeworkdemo/SetInterfaceDemo/SetInterfaceDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/collectionframeworkdemo/PerformingVariousOperationsOnSortedSet/AccessingElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/collectionframeworkdemo/PerformingVariousOperationsOnSortedSet/AddingElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/collectionframeworkdemo/PerformingVariousOperationsOnSortedSet/RemovingTheValues.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/collectionframeworkdemo/SetInterfaceDemo/OperationsOntheSetInterface.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,13 +58,13 @@
       <recent name="org.collectionframeworkdemo.GeneralDemo" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SetInterfaceDemo">
-    <configuration name="Employee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.collectionframeworkdemo.ClassNameAsMethodArgs.Employee" />
+  <component name="RunManager" selected="Application.RemovingTheValues">
+    <configuration name="AccessingElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.collectionframeworkdemo.PerformingVariousOperationsOnSortedSet.AccessingElements" />
       <module name="CollectionFrameworkInJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.collectionframeworkdemo.ClassNameAsMethodArgs.*" />
+          <option name="PATTERN" value="org.collectionframeworkdemo.PerformingVariousOperationsOnSortedSet.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -69,12 +72,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MethodWithMultiParams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.collectionframeworkdemo.MethodsOrFuctions.MethodWithMultiParams" />
+    <configuration name="AddingElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.collectionframeworkdemo.PerformingVariousOperationsOnSortedSet.AddingElements" />
       <module name="CollectionFrameworkInJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.collectionframeworkdemo.MethodsOrFuctions.*" />
+          <option name="PATTERN" value="org.collectionframeworkdemo.PerformingVariousOperationsOnSortedSet.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +85,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MthodsWithArgs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.collectionframeworkdemo.MethodsOrFuctions.MthodsWithArgs" />
+    <configuration name="OperationsOntheSetInterface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.collectionframeworkdemo.SetInterfaceDemo.OperationsOntheSetInterface" />
       <module name="CollectionFrameworkInJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.collectionframeworkdemo.MethodsOrFuctions.*" />
+          <option name="PATTERN" value="org.collectionframeworkdemo.SetInterfaceDemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RemovingTheValues" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.collectionframeworkdemo.PerformingVariousOperationsOnSortedSet.RemovingTheValues" />
+      <module name="CollectionFrameworkInJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.collectionframeworkdemo.PerformingVariousOperationsOnSortedSet.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,26 +124,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StudentMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.collectionframeworkdemo.StudentDemo.StudentMain" />
-      <module name="CollectionFrameworkInJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.collectionframeworkdemo.StudentDemo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RemovingTheValues" />
+        <item itemvalue="Application.AccessingElements" />
+        <item itemvalue="Application.AddingElements" />
+        <item itemvalue="Application.OperationsOntheSetInterface" />
         <item itemvalue="Application.SetInterfaceDemo" />
-        <item itemvalue="Application.Employee" />
-        <item itemvalue="Application.MethodWithMultiParams" />
-        <item itemvalue="Application.MthodsWithArgs" />
-        <item itemvalue="Application.StudentMain" />
       </list>
     </recent_temporary>
   </component>
